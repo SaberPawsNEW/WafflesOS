@@ -1,2 +1,2 @@
 # WafflesOS
-Doggie Waffles, os i like doggo dogieeeeeeeeeeee
+WafflesOS is a os themed after Waffles (our dog), based on Ubuntu.
