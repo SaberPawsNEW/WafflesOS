@@ -5,3 +5,5 @@ just grab any copy of ubuntu source code.
 
 # Note
 I’m not really going to update this anymore, as I no longer use Linux that much. I have to use Linux just to update it, but I bet I will if a very important, cool, or big update happens.
+
+This does NOT mean I am discontinuing WafflesOS. It still has a perfectly fine version of Ubuntu.
