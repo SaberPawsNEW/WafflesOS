@@ -2,3 +2,6 @@
 WafflesOS is a os themed after Waffles (our dog), based on Ubuntu.
 # Why isnt it open source?
 just grab any copy of ubuntu source code.
+
+# Note
+I’m not really going to update this anymore, as I no longer use Linux that much. I have to use Linux just to update it, but I bet I will if a very important, cool, or big update happens.
